@@ -151,7 +151,7 @@ onMounted(() => {
 
 <template>
   <div class="prayer-times">
-    <div class="center-container">
+    <div class="prayer-times__center-container">
       <h1 class="prayer-times__title">Taiyabah Masjid Bolton</h1>
       <h2>{{ myFormattedDate }}</h2>
       <div>
@@ -185,26 +185,29 @@ onMounted(() => {
     </div>
 
     <div class="prayer-times__horizontal">
-      <div class="time">
+      <div class="prayer-times__horizontal-time">
         <p>Imsak</p>
         <span>{{ convertTo12HourClock(imsak) }}</span>
       </div>
-      <div class="time">
+      <div class="prayer-times__horizontal-time">
         <p>Sunrise</p>
         <span>{{ convertTo12HourClock(sunrise) }}</span>
       </div>
-      <div class="time">
+      <div class="prayer-times__horizontal-time">
         <p>Zawal</p>
         <span>{{ convertTo12HourClock(zawal) }}</span>
       </div>
-      <div class="time">
+      <div class="prayer-times__horizontal-time">
         <p>Tahajud 1/3</p>
         <span>{{ convertTo12HourClock(firstThird) }}</span>
       </div>
-      <div class="time">
+      <div class="prayer-times__horizontal-time">
         <p>Tahajud 3/3</p>
         <span>{{ convertTo12HourClock(lastThird) }}</span>
       </div>
+    </div>
+    <div>
+      <img class="prayer-times__logo" src="../assets//taiyabah-logo.jpg" />
     </div>
   </div>
 </template>
@@ -226,19 +229,23 @@ body {
     align-items: center;
     gap: 16px;
     margin-top: 16px;
+
+    &-time {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      flex: 1;
+      font-weight: bold;
+    }
   }
 
-  .time {
+  &__logo {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    text-align: center;
-    flex: 1;
-    font-weight: bold;
   }
-}
-
-.center-container {
-  text-align: center;
+  &__center-container {
+    text-align: center;
+  }
 }
 </style>
