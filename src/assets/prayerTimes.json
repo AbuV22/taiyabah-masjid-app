@@ -3048,5 +3048,2033 @@
         "isha": "10:00"
       }
     }
+  ],
+  "May_2025": [
+    {
+      "date": "01 May 2025",
+      "day": "Thursday",
+      "hijri_date": "3 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:50",
+        "sunrise": "5:34",
+        "zuhr": "1:14",
+        "asr": "6:16",
+        "maghrib": "8:46",
+        "isha": "10:10"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:15",
+        "maghrib": "8:46",
+        "isha": "10:10"
+      }
+    },
+    {
+      "date": "02 May 2025",
+      "day": "Friday",
+      "hijri_date": "4 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:47",
+        "sunrise": "5:32",
+        "zuhr": "1:14",
+        "asr": "6:17",
+        "maghrib": "8:48",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "4:45",
+        "zuhr": "1:30",
+        "asr": "7:30",
+        "maghrib": "8:48",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "03 May 2025",
+      "day": "Saturday",
+      "hijri_date": "5 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:45",
+        "sunrise": "5:30",
+        "zuhr": "1:14",
+        "asr": "6:18",
+        "maghrib": "8:50",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:30",
+        "maghrib": "8:50",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "04 May 2025",
+      "day": "Sunday",
+      "hijri_date": "6 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:42",
+        "sunrise": "5:28",
+        "zuhr": "1:13",
+        "asr": "6:19",
+        "maghrib": "8:52",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:30",
+        "maghrib": "8:52",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "05 May 2025",
+      "day": "Monday",
+      "hijri_date": "7 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:40",
+        "sunrise": "5:26",
+        "zuhr": "1:13",
+        "asr": "6:20",
+        "maghrib": "8:54",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:30",
+        "maghrib": "8:54",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "06 May 2025",
+      "day": "Tuesday",
+      "hijri_date": "8 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:37",
+        "sunrise": "5:24",
+        "zuhr": "1:13",
+        "asr": "6:22",
+        "maghrib": "8:55",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:30",
+        "maghrib": "8:55",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "07 May 2025",
+      "day": "Wednesday",
+      "hijri_date": "9 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:35",
+        "sunrise": "5:23",
+        "zuhr": "1:13",
+        "asr": "6:23",
+        "maghrib": "8:57",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:30",
+        "maghrib": "8:57",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "08 May 2025",
+      "day": "Thursday",
+      "hijri_date": "10 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:33",
+        "sunrise": "5:21",
+        "zuhr": "1:13",
+        "asr": "6:24",
+        "maghrib": "8:59",
+        "isha": "10:15"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:30",
+        "maghrib": "8:59",
+        "isha": "10:15"
+      }
+    },
+    {
+      "date": "09 May 2025",
+      "day": "Friday",
+      "hijri_date": "11 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:31",
+        "sunrise": "5:19",
+        "zuhr": "1:13",
+        "asr": "6:25",
+        "maghrib": "9:01",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "4:30",
+        "zuhr": "1:30",
+        "asr": "7:45",
+        "maghrib": "9:01",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "10 May 2025",
+      "day": "Saturday",
+      "hijri_date": "12 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:28",
+        "sunrise": "5:17",
+        "zuhr": "1:13",
+        "asr": "6:26",
+        "maghrib": "9:02",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:02",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "11 May 2025",
+      "day": "Sunday",
+      "hijri_date": "13 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:26",
+        "sunrise": "5:15",
+        "zuhr": "1:13",
+        "asr": "6:27",
+        "maghrib": "9:04",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:04",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "12 May 2025",
+      "day": "Monday",
+      "hijri_date": "14 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:23",
+        "sunrise": "5:13",
+        "zuhr": "1:13",
+        "asr": "6:28",
+        "maghrib": "9:06",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:06",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "13 May 2025",
+      "day": "Tuesday",
+      "hijri_date": "15 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:22",
+        "sunrise": "5:12",
+        "zuhr": "1:13",
+        "asr": "6:29",
+        "maghrib": "9:07",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:07",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "14 May 2025",
+      "day": "Wednesday",
+      "hijri_date": "16 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:19",
+        "sunrise": "5:10",
+        "zuhr": "1:13",
+        "asr": "6:30",
+        "maghrib": "9:09",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:09",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "15 May 2025",
+      "day": "Thursday",
+      "hijri_date": "17 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:17",
+        "sunrise": "5:08",
+        "zuhr": "1:13",
+        "asr": "6:31",
+        "maghrib": "9:11",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:11",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "16 May 2025",
+      "day": "Friday",
+      "hijri_date": "18 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:15",
+        "sunrise": "5:07",
+        "zuhr": "1:13",
+        "asr": "6:32",
+        "maghrib": "9:12",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "4:30",
+        "zuhr": "1:30",
+        "asr": "7:45",
+        "maghrib": "9:12",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "17 May 2025",
+      "day": "Saturday",
+      "hijri_date": "19 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:13",
+        "sunrise": "5:05",
+        "zuhr": "1:13",
+        "asr": "6:33",
+        "maghrib": "9:14",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:14",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "18 May 2025",
+      "day": "Sunday",
+      "hijri_date": "20 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:11",
+        "sunrise": "5:04",
+        "zuhr": "1:13",
+        "asr": "6:33",
+        "maghrib": "9:15",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:15",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "19 May 2025",
+      "day": "Monday",
+      "hijri_date": "21 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:09",
+        "sunrise": "5:02",
+        "zuhr": "1:13",
+        "asr": "6:34",
+        "maghrib": "9:17",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:17",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "20 May 2025",
+      "day": "Tuesday",
+      "hijri_date": "22 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:07",
+        "sunrise": "5:01",
+        "zuhr": "1:13",
+        "asr": "6:35",
+        "maghrib": "9:19",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:19",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "21 May 2025",
+      "day": "Wednesday",
+      "hijri_date": "23 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:06",
+        "sunrise": "4:59",
+        "zuhr": "1:13",
+        "asr": "6:36",
+        "maghrib": "9:20",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:20",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "22 May 2025",
+      "day": "Thursday",
+      "hijri_date": "24 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:03",
+        "sunrise": "4:58",
+        "zuhr": "1:13",
+        "asr": "6:37",
+        "maghrib": "9:22",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:22",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "23 May 2025",
+      "day": "Friday",
+      "hijri_date": "25 Z.Qadh",
+      "beginning_times": {
+        "fajr": "3:01",
+        "sunrise": "4:57",
+        "zuhr": "1:13",
+        "asr": "6:38",
+        "maghrib": "9:23",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "7:45",
+        "maghrib": "9:23",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "24 May 2025",
+      "day": "Saturday",
+      "hijri_date": "26 Z.Qadh",
+      "beginning_times": {
+        "fajr": "2:59",
+        "sunrise": "4:55",
+        "zuhr": "1:14",
+        "asr": "6:39",
+        "maghrib": "9:24",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:24",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "25 May 2025",
+      "day": "Sunday",
+      "hijri_date": "27 Z.Qadh",
+      "beginning_times": {
+        "fajr": "2:57",
+        "sunrise": "4:54",
+        "zuhr": "1:14",
+        "asr": "6:40",
+        "maghrib": "9:26",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:26",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "26 May 2025",
+      "day": "Monday",
+      "hijri_date": "28 Z.Qadh",
+      "beginning_times": {
+        "fajr": "2:55",
+        "sunrise": "4:53",
+        "zuhr": "1:14",
+        "asr": "6:40",
+        "maghrib": "9:27",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:27",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "27 May 2025",
+      "day": "Tuesday",
+      "hijri_date": "29 Z.Qadh",
+      "beginning_times": {
+        "fajr": "2:54",
+        "sunrise": "4:52",
+        "zuhr": "1:14",
+        "asr": "6:41",
+        "maghrib": "9:29",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:29",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "28 May 2025",
+      "day": "Wednesday",
+      "hijri_date": "1 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:52",
+        "sunrise": "4:51",
+        "zuhr": "1:14",
+        "asr": "6:42",
+        "maghrib": "9:30",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:30",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "29 May 2025",
+      "day": "Thursday",
+      "hijri_date": "2 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:51",
+        "sunrise": "4:50",
+        "zuhr": "1:14",
+        "asr": "6:43",
+        "maghrib": "9:31",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:31",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "30 May 2025",
+      "day": "Friday",
+      "hijri_date": "3 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:49",
+        "sunrise": "4:49",
+        "zuhr": "1:14",
+        "asr": "6:44",
+        "maghrib": "9:32",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "7:45",
+        "maghrib": "9:32",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "31 May 2025",
+      "day": "Saturday",
+      "hijri_date": "4 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:48",
+        "sunrise": "4:48",
+        "zuhr": "1:14",
+        "asr": "6:44",
+        "maghrib": "9:34",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:34",
+        "isha": "10:50"
+      }
+    }
+  ],
+  "June_2025": [
+    {
+      "date": "01 June 2025",
+      "day": "Sunday",
+      "hijri_date": "5 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:46",
+        "sunrise": "4:47",
+        "zuhr": "1:15",
+        "asr": "6:45",
+        "maghrib": "9:36",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:36",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "02 June 2025",
+      "day": "Monday",
+      "hijri_date": "6 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:45",
+        "sunrise": "4:46",
+        "zuhr": "1:15",
+        "asr": "6:46",
+        "maghrib": "9:37",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:37",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "03 June 2025",
+      "day": "Tuesday",
+      "hijri_date": "7 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:44",
+        "sunrise": "4:45",
+        "zuhr": "1:15",
+        "asr": "6:46",
+        "maghrib": "9:38",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:38",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "04 June 2025",
+      "day": "Wednesday",
+      "hijri_date": "8 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:43",
+        "sunrise": "4:44",
+        "zuhr": "1:15",
+        "asr": "6:47",
+        "maghrib": "9:39",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:39",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "05 June 2025",
+      "day": "Thursday",
+      "hijri_date": "9 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:41",
+        "sunrise": "4:44",
+        "zuhr": "1:15",
+        "asr": "6:48",
+        "maghrib": "9:40",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "7:45",
+        "maghrib": "9:40",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "06 June 2025",
+      "day": "Friday",
+      "hijri_date": "10 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:40",
+        "sunrise": "4:43",
+        "zuhr": "1:15",
+        "asr": "6:48",
+        "maghrib": "9:41",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:41",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "07 June 2025",
+      "day": "Saturday",
+      "hijri_date": "11 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:39",
+        "sunrise": "4:42",
+        "zuhr": "1:16",
+        "asr": "6:49",
+        "maghrib": "9:42",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:42",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "08 June 2025",
+      "day": "Sunday",
+      "hijri_date": "12 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:38",
+        "sunrise": "4:42",
+        "zuhr": "1:16",
+        "asr": "6:49",
+        "maghrib": "9:43",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:43",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "09 June 2025",
+      "day": "Monday",
+      "hijri_date": "13 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:37",
+        "sunrise": "4:41",
+        "zuhr": "1:16",
+        "asr": "6:50",
+        "maghrib": "9:44",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:44",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "10 June 2025",
+      "day": "Tuesday",
+      "hijri_date": "14 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:37",
+        "sunrise": "4:41",
+        "zuhr": "1:16",
+        "asr": "6:50",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "11 June 2025",
+      "day": "Wednesday",
+      "hijri_date": "15 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:35",
+        "sunrise": "4:40",
+        "zuhr": "1:16",
+        "asr": "6:51",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "12 June 2025",
+      "day": "Thursday",
+      "hijri_date": "16 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:34",
+        "sunrise": "4:40",
+        "zuhr": "1:17",
+        "asr": "6:51",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "13 June 2025",
+      "day": "Friday",
+      "hijri_date": "17 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:34",
+        "sunrise": "4:40",
+        "zuhr": "1:17",
+        "asr": "6:52",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "14 June 2025",
+      "day": "Saturday",
+      "hijri_date": "18 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:34",
+        "sunrise": "4:40",
+        "zuhr": "1:17",
+        "asr": "6:52",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "15 June 2025",
+      "day": "Sunday",
+      "hijri_date": "19 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:33",
+        "sunrise": "4:39",
+        "zuhr": "1:17",
+        "asr": "6:53",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "16 June 2025",
+      "day": "Monday",
+      "hijri_date": "20 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:33",
+        "sunrise": "4:39",
+        "zuhr": "1:17",
+        "asr": "6:53",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "17 June 2025",
+      "day": "Tuesday",
+      "hijri_date": "21 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:33",
+        "sunrise": "4:39",
+        "zuhr": "1:18",
+        "asr": "6:53",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "18 June 2025",
+      "day": "Wednesday",
+      "hijri_date": "22 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:33",
+        "sunrise": "4:39",
+        "zuhr": "1:18",
+        "asr": "6:54",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "19 June 2025",
+      "day": "Thursday",
+      "hijri_date": "23 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:33",
+        "sunrise": "4:39",
+        "zuhr": "1:18",
+        "asr": "6:54",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "20 June 2025",
+      "day": "Friday",
+      "hijri_date": "24 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:33",
+        "sunrise": "4:39",
+        "zuhr": "1:18",
+        "asr": "6:54",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "21 June 2025",
+      "day": "Saturday",
+      "hijri_date": "25 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:35",
+        "sunrise": "4:40",
+        "zuhr": "1:19",
+        "asr": "6:54",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:47",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "22 June 2025",
+      "day": "Sunday",
+      "hijri_date": "26 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:35",
+        "sunrise": "4:40",
+        "zuhr": "1:19",
+        "asr": "6:54",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "23 June 2025",
+      "day": "Monday",
+      "hijri_date": "27 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:37",
+        "sunrise": "4:41",
+        "zuhr": "1:19",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "24 June 2025",
+      "day": "Tuesday",
+      "hijri_date": "28 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:37",
+        "sunrise": "4:41",
+        "zuhr": "1:19",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "25 June 2025",
+      "day": "Wednesday",
+      "hijri_date": "29 Z.Hajj",
+      "beginning_times": {
+        "fajr": "2:38",
+        "sunrise": "4:42",
+        "zuhr": "1:19",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "26 June 2025",
+      "day": "Thursday",
+      "hijri_date": "1 Muharram",
+      "beginning_times": {
+        "fajr": "2:39",
+        "sunrise": "4:42",
+        "zuhr": "1:20",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "27 June 2025",
+      "day": "Friday",
+      "hijri_date": "2 Muharram",
+      "beginning_times": {
+        "fajr": "2:40",
+        "sunrise": "4:43",
+        "zuhr": "1:20",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "28 June 2025",
+      "day": "Saturday",
+      "hijri_date": "3 Muharram",
+      "beginning_times": {
+        "fajr": "2:41",
+        "sunrise": "4:44",
+        "zuhr": "1:20",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "29 June 2025",
+      "day": "Sunday",
+      "hijri_date": "4 Muharram",
+      "beginning_times": {
+        "fajr": "2:42",
+        "sunrise": "4:44",
+        "zuhr": "1:20",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "30 June 2025",
+      "day": "Monday",
+      "hijri_date": "5 Muharram",
+      "beginning_times": {
+        "fajr": "2:43",
+        "sunrise": "4:44",
+        "zuhr": "1:20",
+        "asr": "6:55",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:48",
+        "isha": "11:00"
+      }
+    }
+  ],
+  "July_2025": [
+    {
+      "date": "01 July 2025",
+      "day": "Tuesday",
+      "hijri_date": "6 Muharram",
+      "beginning_times": {
+        "fajr": "2:45",
+        "sunrise": "4:45",
+        "zuhr": "1:21",
+        "asr": "6:55",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "02 July 2025",
+      "day": "Wednesday",
+      "hijri_date": "7 Muharram",
+      "beginning_times": {
+        "fajr": "2:46",
+        "sunrise": "4:46",
+        "zuhr": "1:21",
+        "asr": "6:55",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:46",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "03 July 2025",
+      "day": "Thursday",
+      "hijri_date": "8 Muharram",
+      "beginning_times": {
+        "fajr": "2:48",
+        "sunrise": "4:46",
+        "zuhr": "1:21",
+        "asr": "6:55",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "04 July 2025",
+      "day": "Friday",
+      "hijri_date": "9 Muharram",
+      "beginning_times": {
+        "fajr": "2:49",
+        "sunrise": "4:47",
+        "zuhr": "1:21",
+        "asr": "6:54",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:45",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "05 July 2025",
+      "day": "Saturday",
+      "hijri_date": "10 Muharram",
+      "beginning_times": {
+        "fajr": "2:50",
+        "sunrise": "4:48",
+        "zuhr": "1:21",
+        "asr": "6:54",
+        "maghrib": "9:44",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:44",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "06 July 2025",
+      "day": "Sunday",
+      "hijri_date": "11 Muharram",
+      "beginning_times": {
+        "fajr": "2:52",
+        "sunrise": "4:49",
+        "zuhr": "1:21",
+        "asr": "6:54",
+        "maghrib": "9:43",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:43",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "07 July 2025",
+      "day": "Monday",
+      "hijri_date": "12 Muharram",
+      "beginning_times": {
+        "fajr": "2:53",
+        "sunrise": "4:50",
+        "zuhr": "1:21",
+        "asr": "6:54",
+        "maghrib": "9:43",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:43",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "08 July 2025",
+      "day": "Tuesday",
+      "hijri_date": "13 Muharram",
+      "beginning_times": {
+        "fajr": "2:55",
+        "sunrise": "4:51",
+        "zuhr": "1:21",
+        "asr": "6:53",
+        "maghrib": "9:42",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:42",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "09 July 2025",
+      "day": "Wednesday",
+      "hijri_date": "14 Muharram",
+      "beginning_times": {
+        "fajr": "2:57",
+        "sunrise": "4:52",
+        "zuhr": "1:22",
+        "asr": "6:53",
+        "maghrib": "9:41",
+        "isha": "11:00"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:41",
+        "isha": "11:00"
+      }
+    },
+    {
+      "date": "10 July 2025",
+      "day": "Thursday",
+      "hijri_date": "15 Muharram",
+      "beginning_times": {
+        "fajr": "2:59",
+        "sunrise": "4:53",
+        "zuhr": "1:22",
+        "asr": "6:52",
+        "maghrib": "9:40",
+        "isha": "10:55"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:40",
+        "isha": "10:55"
+      }
+    },
+    {
+      "date": "11 July 2025",
+      "day": "Friday",
+      "hijri_date": "16 Muharram",
+      "beginning_times": {
+        "fajr": "3:01",
+        "sunrise": "4:54",
+        "zuhr": "1:22",
+        "asr": "6:52",
+        "maghrib": "9:39",
+        "isha": "10:55"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:39",
+        "isha": "10:55"
+      }
+    },
+    {
+      "date": "12 July 2025",
+      "day": "Saturday",
+      "hijri_date": "17 Muharram",
+      "beginning_times": {
+        "fajr": "3:03",
+        "sunrise": "4:55",
+        "zuhr": "1:22",
+        "asr": "6:51",
+        "maghrib": "9:38",
+        "isha": "10:55"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:38",
+        "isha": "10:55"
+      }
+    },
+    {
+      "date": "13 July 2025",
+      "day": "Sunday",
+      "hijri_date": "18 Muharram",
+      "beginning_times": {
+        "fajr": "3:05",
+        "sunrise": "4:56",
+        "zuhr": "1:22",
+        "asr": "6:51",
+        "maghrib": "9:37",
+        "isha": "10:55"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:37",
+        "isha": "10:55"
+      }
+    },
+    {
+      "date": "14 July 2025",
+      "day": "Monday",
+      "hijri_date": "19 Muharram",
+      "beginning_times": {
+        "fajr": "3:07",
+        "sunrise": "4:57",
+        "zuhr": "1:23",
+        "asr": "6:50",
+        "maghrib": "9:36",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:36",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "15 July 2025",
+      "day": "Tuesday",
+      "hijri_date": "20 Muharram",
+      "beginning_times": {
+        "fajr": "3:09",
+        "sunrise": "4:58",
+        "zuhr": "1:23",
+        "asr": "6:50",
+        "maghrib": "9:35",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:35",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "16 July 2025",
+      "day": "Wednesday",
+      "hijri_date": "21 Muharram",
+      "beginning_times": {
+        "fajr": "3:11",
+        "sunrise": "4:59",
+        "zuhr": "1:23",
+        "asr": "6:49",
+        "maghrib": "9:34",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:34",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "17 July 2025",
+      "day": "Thursday",
+      "hijri_date": "22 Muharram",
+      "beginning_times": {
+        "fajr": "3:13",
+        "sunrise": "5:00",
+        "zuhr": "1:23",
+        "asr": "6:48",
+        "maghrib": "9:33",
+        "isha": "10:50"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:33",
+        "isha": "10:50"
+      }
+    },
+    {
+      "date": "18 July 2025",
+      "day": "Friday",
+      "hijri_date": "23 Muharram",
+      "beginning_times": {
+        "fajr": "3:15",
+        "sunrise": "5:01",
+        "zuhr": "1:23",
+        "asr": "6:47",
+        "maghrib": "9:32",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:32",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "19 July 2025",
+      "day": "Saturday",
+      "hijri_date": "24 Muharram",
+      "beginning_times": {
+        "fajr": "3:17",
+        "sunrise": "5:02",
+        "zuhr": "1:23",
+        "asr": "6:47",
+        "maghrib": "9:31",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:31",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "20 July 2025",
+      "day": "Sunday",
+      "hijri_date": "25 Muharram",
+      "beginning_times": {
+        "fajr": "3:19",
+        "sunrise": "5:03",
+        "zuhr": "1:23",
+        "asr": "6:46",
+        "maghrib": "9:30",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:30",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "21 July 2025",
+      "day": "Monday",
+      "hijri_date": "26 Muharram",
+      "beginning_times": {
+        "fajr": "3:21",
+        "sunrise": "5:04",
+        "zuhr": "1:23",
+        "asr": "6:45",
+        "maghrib": "9:29",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:29",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "22 July 2025",
+      "day": "Tuesday",
+      "hijri_date": "27 Muharram",
+      "beginning_times": {
+        "fajr": "3:23",
+        "sunrise": "5:05",
+        "zuhr": "1:23",
+        "asr": "6:44",
+        "maghrib": "9:28",
+        "isha": "10:45"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:28",
+        "isha": "10:45"
+      }
+    },
+    {
+      "date": "23 July 2025",
+      "day": "Wednesday",
+      "hijri_date": "28 Muharram",
+      "beginning_times": {
+        "fajr": "3:25",
+        "sunrise": "5:06",
+        "zuhr": "1:23",
+        "asr": "6:43",
+        "maghrib": "9:27",
+        "isha": "10:40"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:27",
+        "isha": "10:40"
+      }
+    },
+    {
+      "date": "24 July 2025",
+      "day": "Thursday",
+      "hijri_date": "29 Muharram",
+      "beginning_times": {
+        "fajr": "3:27",
+        "sunrise": "5:07",
+        "zuhr": "1:23",
+        "asr": "6:42",
+        "maghrib": "9:26",
+        "isha": "10:40"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:26",
+        "isha": "10:40"
+      }
+    },
+    {
+      "date": "25 July 2025",
+      "day": "Friday",
+      "hijri_date": "1 Safar",
+      "beginning_times": {
+        "fajr": "3:29",
+        "sunrise": "5:08",
+        "zuhr": "1:23",
+        "asr": "6:42",
+        "maghrib": "9:24",
+        "isha": "10:40"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:24",
+        "isha": "10:40"
+      }
+    },
+    {
+      "date": "26 July 2025",
+      "day": "Saturday",
+      "hijri_date": "2 Safar",
+      "beginning_times": {
+        "fajr": "3:31",
+        "sunrise": "5:09",
+        "zuhr": "1:23",
+        "asr": "6:41",
+        "maghrib": "9:23",
+        "isha": "10:40"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:23",
+        "isha": "10:40"
+      }
+    },
+    {
+      "date": "27 July 2025",
+      "day": "Sunday",
+      "hijri_date": "3 Safar",
+      "beginning_times": {
+        "fajr": "3:33",
+        "sunrise": "5:10",
+        "zuhr": "1:23",
+        "asr": "6:40",
+        "maghrib": "9:22",
+        "isha": "10:40"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:22",
+        "isha": "10:40"
+      }
+    },
+    {
+      "date": "28 July 2025",
+      "day": "Monday",
+      "hijri_date": "4 Safar",
+      "beginning_times": {
+        "fajr": "3:35",
+        "sunrise": "5:11",
+        "zuhr": "1:23",
+        "asr": "6:39",
+        "maghrib": "9:21",
+        "isha": "10:40"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:21",
+        "isha": "10:40"
+      }
+    },
+    {
+      "date": "29 July 2025",
+      "day": "Tuesday",
+      "hijri_date": "5 Safar",
+      "beginning_times": {
+        "fajr": "3:37",
+        "sunrise": "5:12",
+        "zuhr": "1:23",
+        "asr": "6:38",
+        "maghrib": "9:19",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:19",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "30 July 2025",
+      "day": "Wednesday",
+      "hijri_date": "6 Safar",
+      "beginning_times": {
+        "fajr": "3:39",
+        "sunrise": "5:13",
+        "zuhr": "1:23",
+        "asr": "6:37",
+        "maghrib": "9:18",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:18",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "31 July 2025",
+      "day": "Thursday",
+      "hijri_date": "7 Safar",
+      "beginning_times": {
+        "fajr": "3:41",
+        "sunrise": "5:14",
+        "zuhr": "1:23",
+        "asr": "6:36",
+        "maghrib": "9:17",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:17",
+        "isha": "10:35"
+      }
+    }
+  ],
+  "August_2025": [
+    {
+      "date": "01 August 2025",
+      "day": "Friday",
+      "hijri_date": "8 Safar",
+      "beginning_times": {
+        "fajr": "3:43",
+        "sunrise": "5:15",
+        "zuhr": "1:23",
+        "asr": "6:35",
+        "maghrib": "9:15",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:15",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "02 August 2025",
+      "day": "Saturday",
+      "hijri_date": "9 Safar",
+      "beginning_times": {
+        "fajr": "3:45",
+        "sunrise": "5:16",
+        "zuhr": "1:23",
+        "asr": "6:34",
+        "maghrib": "9:14",
+        "isha": "10:35"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:14",
+        "isha": "10:35"
+      }
+    },
+    {
+      "date": "03 August 2025",
+      "day": "Sunday",
+      "hijri_date": "10 Safar",
+      "beginning_times": {
+        "fajr": "3:47",
+        "sunrise": "5:18",
+        "zuhr": "1:23",
+        "asr": "6:33",
+        "maghrib": "9:12",
+        "isha": "10:30"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:12",
+        "isha": "10:30"
+      }
+    },
+    {
+      "date": "04 August 2025",
+      "day": "Monday",
+      "hijri_date": "11 Safar",
+      "beginning_times": {
+        "fajr": "3:49",
+        "sunrise": "5:19",
+        "zuhr": "1:23",
+        "asr": "6:32",
+        "maghrib": "9:11",
+        "isha": "10:30"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:11",
+        "isha": "10:30"
+      }
+    },
+    {
+      "date": "05 August 2025",
+      "day": "Tuesday",
+      "hijri_date": "12 Safar",
+      "beginning_times": {
+        "fajr": "3:52",
+        "sunrise": "5:20",
+        "zuhr": "1:23",
+        "asr": "6:31",
+        "maghrib": "9:09",
+        "isha": "10:30"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:09",
+        "isha": "10:30"
+      }
+    },
+    {
+      "date": "06 August 2025",
+      "day": "Wednesday",
+      "hijri_date": "13 Safar",
+      "beginning_times": {
+        "fajr": "3:54",
+        "sunrise": "5:21",
+        "zuhr": "1:23",
+        "asr": "6:30",
+        "maghrib": "9:08",
+        "isha": "10:30"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:08",
+        "isha": "10:30"
+      }
+    },
+    {
+      "date": "07 August 2025",
+      "day": "Thursday",
+      "hijri_date": "14 Safar",
+      "beginning_times": {
+        "fajr": "3:56",
+        "sunrise": "5:23",
+        "zuhr": "1:23",
+        "asr": "6:29",
+        "maghrib": "9:07",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:07",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "08 August 2025",
+      "day": "Friday",
+      "hijri_date": "15 Safar",
+      "beginning_times": {
+        "fajr": "3:59",
+        "sunrise": "5:24",
+        "zuhr": "1:23",
+        "asr": "6:28",
+        "maghrib": "9:05",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "4:15",
+        "zuhr": "1:30",
+        "asr": "8:00",
+        "maghrib": "9:05",
+        "isha": "10:25"
+      }
+    },
+    {
+      "date": "09 August 2025",
+      "day": "Saturday",
+      "hijri_date": "16 Safar",
+      "beginning_times": {
+        "fajr": "4:01",
+        "sunrise": "5:26",
+        "zuhr": "1:23",
+        "asr": "6:27",
+        "maghrib": "9:04",
+        "isha": "10:25"
+      },
+      "jamat_times": {
+        "fajr": "5:00",
+        "zuhr": "1:45",
+        "asr": "8:00",
+        "maghrib": "9:04",
+        "isha": "10:25"
+      }
+    }
   ]
 }
