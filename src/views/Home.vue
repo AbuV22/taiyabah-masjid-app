@@ -76,7 +76,7 @@ const zawal = computed(() => {
 
 const filterJamatTimes = () => {
   const formattedDate = getFormattedDate(myDate.value, false);
-  const dayData = jamatTimes.value.January_2025?.find(
+  const dayData = jamatTimes.value.February_2025?.find(
     (entry) => entry.date === formattedDate
   );
 
